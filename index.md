@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I am Mohammadreza Shahsahebi, a PhD candidate in Operation and Supply Chain Management at the University of Calgary. 
+I am Mohammadreza Shahsahebi, a PhD candidate in Operation and Supply Chain Management at the University of Calgary, Haskayne School of Business. 
 
 My current research focuses on developing effective strategies for mitigating bias in machine learning algorithms and understanding 
 the role of human decision-making in the development process. I am passionate about leveraging the power of AI and machine learning 
