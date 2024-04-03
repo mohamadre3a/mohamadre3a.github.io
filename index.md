@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "About Me"
 author_profile: true
 ---
 
-# About Me
 
 I am Mohammadreza Shahsahebi, a PhD candidate in Operation and Supply Chain Management at the University of Calgary. 
 
