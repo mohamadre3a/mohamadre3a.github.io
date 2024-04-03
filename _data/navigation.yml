@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: /assets/pdf/CV.pdf
+    url: /assets/pdf/cv.pdf
     target: "_blank"
   # - title: "Teachings"
   #   url: /teachings/
