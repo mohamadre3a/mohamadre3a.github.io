@@ -3,6 +3,8 @@ main:
   - title: "CV"
     url: /assets/pdf/CV.pdf
     target: "_blank"
+  - title: "Contact me"
+    url: /contact/
   # - title: "Teachings"
   #   url: /teachings/
   # - title: "Home"
