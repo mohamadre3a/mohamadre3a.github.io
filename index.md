@@ -18,7 +18,7 @@ My research interests are:
 - *Human-Machine Collaboration* 
 - *Behavioral Operations*.
 
-<p><strong style="font-size: 1.5em;">I am on the 2024-2025 academic job market.</strong></p>
+<!-- <p><strong style="font-size: 1.5em;">I am on the 2024-2025 academic job market.</strong></p> -->
 
 
 
