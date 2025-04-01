@@ -16,7 +16,9 @@ I hold a BSc in Industrial Engineering from Kharazmi University (2018) and an MS
 My research interests are: 
 - *Fairness in Machine Learning* 
 - *Human-Machine Collaboration* 
-- *Behavioral Operations*.
+- *Algorithmic Decision Making*
+- *Sustainablity in Operations Management*
+- *Data-driven Optimization*
 
 <!-- <p><strong style="font-size: 1.5em;">I am on the 2024-2025 academic job market.</strong></p> -->
 
@@ -24,37 +26,54 @@ My research interests are:
 
 ## Working Papers
 
-1. Shaping Programmer Practices: Behavioral Strategies for Mitigating Bias in Machine Learning Algorithm Development.
-2. Collaborative Fairness: Human and Machine Interaction. 
-3. The Overconfidence's Effect in Product Proliferation.
+1. **Shaping Programmer Practices: Effective Strategies for Mitigating Bias in Machine Learning Algorithm Development**
+   - _with Osman Alp, Alireza Sabouri, Justin Weinhardt_
+   - Status: R&R, _Production and Operations Management_
+
+2. **Cognitive Costs and Ethical Choices: Fairness in Human-Machine Decision Systems**
+   - _with Osman Alp, Alireza Sabouri, Justin Weinhardt_
+   - Status: Working paper
+
+3. **The Overconfidence’s Effect on Product Proliferation**
+   - _with Justin Weinhardt_
+   - Status: Work in progress
+
+4. **The Interplay of Fairness and Trust in Human-Machine Collaboration**
+   - _with Osman Alp, Alireza Sabouri, Justin Weinhardt_
+   - Status: Work in progress
+
 
 
 
 ## Conference Presentations
 
-- **June 3, 2024:** I presented my paper <i>Shaping Programmer Practices</i> at the 2024 CORS conference in London, ON.
-- **June 25, 2023:** I presented my paper <i>Shaping Programmer Practices</i> at the 2023 MSOM conference in Montreal, QC. 
+- **2024 CORS Annual Conference**, London, ON, June 3, 2024: 
+  _Shaping Programmer Practices: Effective Strategies for Mitigating Bias in Machine Learning Algorithm Development_
+
+- **2023 MSOM Conference**, Montreal, QC, June 25, 2023: 
+  _Shaping Programmer Practices: Effective Strategies for Mitigating Bias in Machine Learning Algorithm Development_
 
 
 ## Awards and Grants
 - Paramount Resources Ltd Graduate Scholarship in Business (2024)
-
+- Outstanding Achievement in Teaching Award (2025)
 
 ## Professional Experience
 
 ### Teaching Experience
-- **MGST 391 - Business Analytics**, University of Calgary (Winter 2023)
-- **MGST 391 - Business Analytics**, University of Calgary (Fall 2023)
+- **MGST 391 - Business Analytics**, University of Calgary, Fall 2023 (Instructor Evaluation: 7/7)
+- **MGST 391 - Business Analytics**, University of Calgary, Winter 2023 (Instructor Evaluation: 6.77/7)
 
 ### Teaching Assistance
-- **MGST 391 - Business Analytics**, University of Calgary (Winter 2022)
+- **MGST 391 - Business Analytics**, University of Calgary, Fall 2022
 
 ### Research Experience
-- **Research Assistant**, University of Calgary (Winter 2024)
+- **Research Assistant**, University of Calgary, Winter 2024  
+  Designed and implemented behavioral experiments using oTree.
 
 ### Industry Experience
-- **Programmer**, Web Development (2017-2018)
-- **Strategic Management Intern**, EZAM Co. (2018)
+- **Web Development Programmer**, Freelance (2017-2018)
+- **Strategic Management Intern**, EZAM Co., Tehran (2018)
 
 
 ## Services
