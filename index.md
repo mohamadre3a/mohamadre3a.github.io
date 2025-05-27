@@ -64,9 +64,9 @@ My research interests are:
 
 
 ## Awards and Grants
-- Paramount Resources Ltd Graduate Scholarship in Business (2024)
-- Paramount Resources Ltd Graduate Scholarship in Business (2024)
+- Paramount Resources Ltd Graduate Scholarship in Business (2025)
 - Runner-up, Outstanding Achievement in Teaching Award (2025)
+- Paramount Resources Ltd Graduate Scholarship in Business (2024)
 
 ## Professional Experience
 
