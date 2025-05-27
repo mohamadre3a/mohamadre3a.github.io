@@ -47,6 +47,15 @@ My research interests are:
 
 ## Conference Presentations
 
+- **2025 MSOM Annual Conference**, London, UK, June 29, 2025: 
+  _Cognitive Costs and Ethical Choices: Fairness in Human-Machine Decision Systems_
+
+- **2025 CORS Annual Conference**, Edmonton, AB, June 9, 2025: 
+  _Cognitive Costs and Ethical Choices: Fairness in Human-Machine Decision Systems_
+
+- **2025 AIMOR Conference**, Banff, AB, May 14, 2025: 
+  _Cognitive Costs and Ethical Choices: Fairness in Human-Machine Decision Systems_
+
 - **2024 CORS Annual Conference**, London, ON, June 3, 2024: 
   _Shaping Programmer Practices: Effective Strategies for Mitigating Bias in Machine Learning Algorithm Development_
 
@@ -56,7 +65,8 @@ My research interests are:
 
 ## Awards and Grants
 - Paramount Resources Ltd Graduate Scholarship in Business (2024)
-- Outstanding Achievement in Teaching Award (2025)
+- Paramount Resources Ltd Graduate Scholarship in Business (2024)
+- Runner-up, Outstanding Achievement in Teaching Award (2025)
 
 ## Professional Experience
 
