@@ -72,7 +72,8 @@ My research interests are:
 
 ### Teaching Experience
 - **SCMA 455 - Logistics Management**, University of Calgary, Fall 2025 (Instructor Evaluation: 4/5)
-- **MGST 391 - Business Analytics** _Two sessions_, University of Calgary, Fall 2025 (Instructor Evaluation: 5/5)
+
+- **MGST 391 - Business Analytics** (Two sessions), University of Calgary, Fall 2025 (Instructor Evaluation: 5/5)
 
 - **MGST 391 - Business Analytics**, University of Calgary, Fall 2023 (Instructor Evaluation: 7/7)
 - **MGST 391 - Business Analytics**, University of Calgary, Winter 2023 (Instructor Evaluation: 6.77/7)
