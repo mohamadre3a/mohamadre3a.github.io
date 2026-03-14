@@ -103,7 +103,16 @@ a:hover {
 }
 
 .greedy-nav__toggle {
-  color: rgba(255,255,255,0.8) !important;
+  display: none !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-wrap: wrap;
 }
 
 /* ---------- Page Layout ---------- */
@@ -391,4 +400,44 @@ a:hover {
   .sidebar { margin-bottom: 2rem; }
   .page__content h2 { font-size: 1.1rem; }
   .cv-embed-wrapper { height: 70vh; }
+}
+
+/* ---------- Mobile: fix social links popup → inline ---------- */
+@media (max-width: 978px) {
+  .author__urls-wrapper {
+    display: block !important;
+    position: static !important;
+    vertical-align: unset !important;
+  }
+
+  .author__urls {
+    display: block !important;
+    position: static !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    margin-top: 0.5rem !important;
+    padding: 0 !important;
+  }
+
+  .author__urls::before,
+  .author__urls::after {
+    display: none !important;
+  }
+
+  /* Stack avatar and content vertically on mobile */
+  .author__avatar {
+    display: block !important;
+    width: auto !important;
+    height: auto !important;
+    text-align: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .author__content {
+    display: block !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center;
+  }
 }

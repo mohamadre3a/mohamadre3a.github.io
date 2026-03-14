@@ -45,9 +45,15 @@ Navigation is configured in [_data/navigation.yml](_data/navigation.yml).
 ### Customization vs Theme
 
 - Theme files (`_layouts/`, `_includes/`, `_sass/minimal-mistakes/`) are the upstream Minimal Mistakes theme — avoid editing unless necessary
-- Custom styling goes in [assets/css/custom.css](assets/css/custom.css) (currently just link underline styles)
+- Custom styling goes in [assets/css/custom.css](assets/css/custom.css) — all site design, layout, and responsive overrides live here
 - Site-specific config is in [_config.yml](_config.yml)
 - The generated site outputs to `_site/` (git-ignored)
+
+### Mobile Layout Notes
+
+The greedy-nav JS (from Minimal Mistakes) collapses nav items into a hamburger menu on small screens. This is suppressed via CSS in `custom.css` (`.greedy-nav__toggle { display: none !important }`) so the nav always renders horizontally.
+
+The author sidebar social links (`author__urls`) default to a floating popup on mobile. This is overridden in `custom.css` at the `978px` breakpoint to render inline (static positioning, no box-shadow/border popup styling).
 
 ### JavaScript Pipeline
 
