@@ -1,8 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: /assets/pdf/CV.pdf
-    target: "_blank"
+    url: /cv/
   - title: "Contact me"
     url: /contact/
   # - title: "Teachings"

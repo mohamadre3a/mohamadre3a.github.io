@@ -28,7 +28,7 @@ My research interests are:
 
 1. **Shaping Programmer Practices: Effective Strategies for Mitigating Bias in Machine Learning Algorithm Development**
    - _with Osman Alp, Alireza Sabouri, Justin Weinhardt_
-   - Status: R&R, _Production and Operations Management_
+   - Status: R&R, _Production and Operations Management_ and _Decision Sciences Journal_
 
 2. **Cognitive Costs and Ethical Choices: Fairness in Human-Machine Decision Systems**
    - _with Osman Alp, Alireza Sabouri, Justin Weinhardt_
